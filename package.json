@@ -1,6 +1,6 @@
 {
   "name": "connect-response-cache",
-  "version": "0.2.1",
+  "version": "1.0.0",
   "dependencies": {
     "q": "^1.5.0",
     "sqlite3": "^3.1.8",
