@@ -2,16 +2,16 @@
   "name": "connect-response-cache",
   "version": "0.2.1",
   "dependencies": {
-    "q": "~0.9.6",
-    "sqlite3": "~2.1.10",
-    "node-uuid": "~1.4.1"
+    "q": "^1.5.0",
+    "sqlite3": "^3.1.8",
+    "uuid": "^3.0.1"
   },
   "devDependencies": {
-    "connect": "~2.7.11",
-    "nodeunit": "~0.8.0",
-    "request": "~2.21",
-    "node-zip": "~1.0.1",
-    "temp": "~0.5.1"
+    "connect": "~3.6.0",
+    "nodeunit": "~0.11.0",
+    "request": "~2.81",
+    "node-zip": "~1.1.1",
+    "temp": "~0.8.3"
   },
   "scripts": {
     "test": "nodeunit tests/*.tests.js"
